@@ -45,7 +45,4 @@ The loop ends.
 
 ### Conclusion
 The code effectively counts the number of seniors in the given array of details by extracting the age from each string, converting it to an integer, and checking if it's greater than 60.
- 
-**Note:** The code assumes that the age is always represented by two digits in the 11th and 12th positions of the input string. If the format of the input strings changes, the code might need adjustments.
- 
-**Would you like to try a different input array or explore potential improvements to the code?**
+
